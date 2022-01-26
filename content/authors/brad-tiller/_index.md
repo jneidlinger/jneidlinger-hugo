@@ -3,7 +3,7 @@ title: Brad Tiller
 bio: 'Written by You. No No No.
 
   '
-avatar: "/images/brad-tiller.jpg"
+avatar: "/images/1914540.jpg"
 social:
 - title: github
   url: https://github.com
