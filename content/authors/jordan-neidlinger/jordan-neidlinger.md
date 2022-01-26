@@ -5,6 +5,6 @@ avatar: "/images/1914540.jpg"
 social:
 - title: Github
   url: https://github.com/jneidlinger
-featured: true
+featured: false
 
 ---
