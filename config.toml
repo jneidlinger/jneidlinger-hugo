@@ -45,7 +45,7 @@ copyright = "&copy; 2022, Jordan Neidlinger"
     href = "https://github.com/jneidlinger"      # Link to associate with icon (http://, https://, mailto:)
   [[params.social]]
     fa_icon = "fab fa-linkedin-in fa-1x"
-    href = "https://linkedin.com/jneidlinger"
+    href = "https://www.linkedin.com/in/jneidlinger/"
   [[params.social]]
     fa_icon = "fas fa-at fa-1x"
     href = "mailto:jneidlinger@gmail.com"
