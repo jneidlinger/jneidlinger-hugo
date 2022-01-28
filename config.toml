@@ -20,7 +20,7 @@ copyright = "&copy; 2022, Jordan Neidlinger"
     identifier = "posts"
     name = "Posts"
     title = "Posts"
-    url = "/posts/"
+    url = "/post/"
     weight = -100
   [[menu.main]]
     identifier = "categories"
