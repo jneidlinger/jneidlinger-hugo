@@ -1,5 +1,5 @@
 baseURL = "https://neidlinger.org"
-title = "Neidlinger Corp"
+title = "Jordan Neidlinger"
 languageCode = "en-us"
 theme = "devise"
 relativeURLs = true
@@ -20,7 +20,7 @@ copyright = "&copy; 2022, Jordan Neidlinger"
     identifier = "posts"
     name = "Posts"
     title = "Posts"
-    url = "/post/"
+    url = "/posts/"
     weight = -100
   [[menu.main]]
     identifier = "categories"
@@ -31,9 +31,9 @@ copyright = "&copy; 2022, Jordan Neidlinger"
 
 # Configuration Features
 [params]
-  description = "Your meta description"      # Your meta description of the site
-  header_title = "Your Name"                 # Your header title
-  header_subtitle = "Your Creative Subtitle" # Your header subtitle
+  description = "A homepage for Jordan Neidlinger"      # Your meta description of the site
+  header_title = "Jordan Neidlinger"                 # Your header title
+  header_subtitle = "Hey kid, I'm a computer" # Your header subtitle
   home_image = "/images/avatar.png"          # Path to header image starting from the static directory
   recent_posts = 5                           # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
@@ -45,10 +45,7 @@ copyright = "&copy; 2022, Jordan Neidlinger"
     href = "https://github.com/jneidlinger"      # Link to associate with icon (http://, https://, mailto:)
   [[params.social]]
     fa_icon = "fab fa-linkedin-in fa-1x"
-    href = ""
-  [[params.social]]
-    fa_icon = "fab fa-twitter fa-1x"
-    href = ""
+    href = "https://linkedin.com/jneidlinger"
   [[params.social]]
     fa_icon = "fas fa-at fa-1x"
-    href = ""
+    href = "mailto:jneidlinger@gmail.com"
