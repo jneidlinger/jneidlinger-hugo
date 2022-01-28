@@ -33,7 +33,7 @@ copyright = "&copy; 2022, Jordan Neidlinger"
 [params]
   description = "A homepage for Jordan Neidlinger"      # Your meta description of the site
   header_title = "Jordan Neidlinger"                 # Your header title
-  header_subtitle = "Hey kid, I'm a computer" # Your header subtitle
+  header_subtitle = "Stop all the downloading" # Your header subtitle
   home_image = "/images/avatar.png"          # Path to header image starting from the static directory
   recent_posts = 5                           # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
